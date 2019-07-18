@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bc-laparis-builder-dist/static/css/main.acbe0b60.chunk.css",
-    "main.js": "/bc-laparis-builder-dist/static/js/main.58a66ea0.chunk.js",
-    "main.js.map": "/bc-laparis-builder-dist/static/js/main.58a66ea0.chunk.js.map",
-    "runtime~main.js": "/bc-laparis-builder-dist/static/js/runtime~main.3ad35fbc.js",
-    "runtime~main.js.map": "/bc-laparis-builder-dist/static/js/runtime~main.3ad35fbc.js.map",
-    "static/css/2.266e55a5.chunk.css": "/bc-laparis-builder-dist/static/css/2.266e55a5.chunk.css",
-    "static/js/2.cd077373.chunk.js": "/bc-laparis-builder-dist/static/js/2.cd077373.chunk.js",
-    "static/js/2.cd077373.chunk.js.map": "/bc-laparis-builder-dist/static/js/2.cd077373.chunk.js.map",
-    "index.html": "/bc-laparis-builder-dist/index.html",
-    "precache-manifest.e845e128a7eb1692909667a104c0ba83.js": "/bc-laparis-builder-dist/precache-manifest.e845e128a7eb1692909667a104c0ba83.js",
-    "service-worker.js": "/bc-laparis-builder-dist/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/bc-laparis-builder-dist/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.acbe0b60.chunk.css.map": "/bc-laparis-builder-dist/static/css/main.acbe0b60.chunk.css.map"
+    "main.css": "/static/css/main.acbe0b60.chunk.css",
+    "main.js": "/static/js/main.7f6fc1e4.chunk.js",
+    "main.js.map": "/static/js/main.7f6fc1e4.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
+    "static/js/2.cd077373.chunk.js": "/static/js/2.cd077373.chunk.js",
+    "static/js/2.cd077373.chunk.js.map": "/static/js/2.cd077373.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c9f9d4de6b5f435ee8adbd2b82b6e497.js": "/precache-manifest.c9f9d4de6b5f435ee8adbd2b82b6e497.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.acbe0b60.chunk.css.map": "/static/css/main.acbe0b60.chunk.css.map"
   }
 }
